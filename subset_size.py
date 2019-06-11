@@ -1,5 +1,5 @@
 '''The number of subsets of size k of a set of size n (also called an n-set) is
-C(n,k) = P(n,k)/k!    =     n!/(k!*(n−k)!)    =  (nk).     pronounced "n choose k".'''
+C(n,k) = P(n,k)/k!    =     n!/(k!*(n−k)!)    =  (nk).     pronounced as "n choose k".'''
 
 
 
@@ -20,7 +20,7 @@ occurences in sub-set is ===(nk)*k/n  ------refer above'''
 
    total no of sub-sets(chosen 2 from 9)====36
 
-   total occurence of any no in a sub-set (no=chosen from set)====8'''
+   total occurence of any no in a sub-set (no=5=assumption=chosen from set)====8'''
 
 
    
